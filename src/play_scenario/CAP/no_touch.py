@@ -26,7 +26,7 @@ from src.data import behavior_list
 from src.NLP import NLP, Dictionary
 
 ## 여기에 사용자 이름 넣기
-user_name = '건호'
+user_name = '원형'
 
 NLP = NLP()
 Dic = Dictionary()
